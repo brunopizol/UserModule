@@ -1,0 +1,160 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\usermodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:usermodule.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:entity\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\infra\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:infra\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\valueobjects\\dateofbirthvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:valueobjects\\dateofbirthvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\valueobjects\\cpfvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:valueobjects\\cpfvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\valueobjects\\emailvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:valueobjects\\emailvo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|c:\\users\\t.bruno.pizol\\source\\repos\\usermodule\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A886F0C-A4C0-4B0B-9C8F-E931AD7DED39}|UserModule.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:39:06.502Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Infra\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Infra\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Infra\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Infra\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:30:19.032Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DateOfBirthVO.cs",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\ValueObjects\\DateOfBirthVO.cs",
+              "RelativeDocumentMoniker": "ValueObjects\\DateOfBirthVO.cs",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\ValueObjects\\DateOfBirthVO.cs",
+              "RelativeToolTip": "ValueObjects\\DateOfBirthVO.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA7wAwAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:29:41.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CpfVO.cs",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\ValueObjects\\CpfVO.cs",
+              "RelativeDocumentMoniker": "ValueObjects\\CpfVO.cs",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\ValueObjects\\CpfVO.cs",
+              "RelativeToolTip": "ValueObjects\\CpfVO.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAYwAwAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:29:03.105Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailVO.cs",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\ValueObjects\\EmailVO.cs",
+              "RelativeDocumentMoniker": "ValueObjects\\EmailVO.cs",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\ValueObjects\\EmailVO.cs",
+              "RelativeToolTip": "ValueObjects\\EmailVO.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAswA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:28:19.893Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Entity\\User.cs",
+              "RelativeDocumentMoniker": "Entity\\User.cs",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Entity\\User.cs",
+              "RelativeToolTip": "Entity\\User.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAArwAgAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:27:29.058Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserModule",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\UserModule.csproj",
+              "RelativeDocumentMoniker": "UserModule.csproj",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\UserModule.csproj",
+              "RelativeToolTip": "UserModule.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-31T19:15:47.799Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\t.bruno.pizol\\source\\repos\\UserModule\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T19:12:33.247Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
